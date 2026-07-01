@@ -24,7 +24,7 @@
 ## 💻 System Diagnostics / Core Skillset Inventory
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mmkyadav/mmkyadav/main/skillset_dashboard.svg" alt="Skillset Dashboard" width="100%" />
+  <img src="skillset_dashboard.svg" alt="Skillset Dashboard" width="100%" />
 </p>
 
 ---
