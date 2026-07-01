@@ -21,12 +21,10 @@
 
 ---
 
-## 📊 Operational Metrics / GitHub Stats
+## 💻 System Diagnostics / Core Skillset Inventory
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmkyadav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d11&title_color=00f2ff&text_color=e2e8f0&icon_color=a855f7" alt="mmkyadav's GitHub stats" />
-  &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmkyadav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d11&title_color=00f2ff&text_color=e2e8f0" alt="mmkyadav's top languages" />
+  <img src="https://raw.githubusercontent.com/mmkyadav/mmkyadav/main/skillset_dashboard.svg" alt="Skillset Dashboard" width="100%" />
 </p>
 
 ---
